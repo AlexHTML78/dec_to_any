@@ -29,9 +29,9 @@ body {
   h1 {
     position: absolute;
     text-align: center;
-    left: 20%;
+    left: 50%;
     top: 20%;
-    transform: translatex(-10%);
+    transform: translatex(-50%);
     letter-spacing: 0.2rem;
     font-size: 1.5rem;
     color: #FBFBFA;
