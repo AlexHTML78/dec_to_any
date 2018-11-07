@@ -1,4 +1,4 @@
-window.addEventListener('load', alert('Hello!'));
+"use strict";
 function decToAny() {
   let dec = document.getElementById("decimal").value;
   let arr = [];
